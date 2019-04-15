@@ -1,1 +1,1 @@
-# yamashi--fountain-of-knowledge
+# yamashi-fountain-of-knowledge
